@@ -8,5 +8,6 @@ Visual Screenshot:
 
 <img width="1206" alt="image" src="https://user-images.githubusercontent.com/126218396/230702431-ada18321-a5fe-4b95-b21b-30c503fa8a06.png">
 
-    
+Application URL:
+https://github-cedsim.github.io/Password-Generator/
 
